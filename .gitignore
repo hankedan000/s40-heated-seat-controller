@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Except the source directory
+!.gitignore
+!source/
+!source/*
